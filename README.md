@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2>About me</h2>
 <div>
-  Graduated in the course of Analysis and Systems Development at IFNMG - Campus Januária. With development experience in PHP, Python, Java and C. Currently, focused on projects involving Python and deepening knowledge in JavaScript and its frameworks.
+  Graduated in the course of Analysis and Systems Development at IFNMG - Campus Januária. With development experience in PHP, Python and JavaScript. Currently, focused on projects involving Python and deepening knowledge in JavaScript and its frameworks.
 </div>
 
 
