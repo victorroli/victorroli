@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 I'm Victor Felipe, <br><br>
 I'm Software Developer and I'm currently working as Programming Analyst at Obuc <br>
-I've been working in tech world since 2018 <br><br>
+I've been working in tech world since 2018 <br>
 Learning is continuous and there will always be a next level 🚀
-<br>
 
+## Technologies
+---
 
 #### Backend: 
 <div>
@@ -80,4 +81,3 @@ IDEs:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" width="55px"/>         
 </div>
-
