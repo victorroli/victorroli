@@ -1,24 +1,13 @@
-# Hi there 👋,
+# Hi there 👋, 
 
-<!--
-**victorroli/victorroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Victor Felipe, <br><br>
-I'm Software Developer and I'm currently working as Programming Analyst at Obuc <br>
-I've been working in tech world since 2018 <br>
-Learning is continuous and there will always be a next level 🚀
+<div width="100%">
+   <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/man-working-analysis-on-desktop-8452554-6714595.png?f=webp" height="300px" width="30%"/>
+   I'm Victor Felipe, <br><br>
+   I'm Software Developer and I'm currently working as Programming Analyst at Obuc <br>
+   I've been working in tech world since 2018 <br>
+   Learning is continuous and there will always be a next level 🚀
+   
+</div>
 
 ## Technologies
 ---
@@ -55,7 +44,7 @@ Learning is continuous and there will always be a next level 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="55px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg" width="55px"/>               
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg" width="95px"/>               
 </div>
 
 #### Cloud:
